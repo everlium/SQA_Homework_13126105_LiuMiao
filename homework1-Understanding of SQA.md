@@ -4,3 +4,13 @@ SQA is the abbreviation of software quality assurance. Before we talk about the 
 SQA is based on the software products and activities to review and audit to verify whether software is up to standard. Software quality assurance group take part in the establishment of plans, standards and procedures at the beginning of the project together and will throughout the whole project. In other words, testing is just only a part of the SQA. 
 
 It is only my understanding of SQA. Because I never learn the course about SQA before, so the opinion may be one-sided. I hope I can get the clear understanding of SQA through this class. 
+
+
+
+Rate 5 classmates of homework
+
+Fu Hua 13126070 A
+Huang Mingen 13126083 A
+Dong Xiao 13126064 A
+Qiu Fang 13126120 A
+Feng Xiangmin 13126069 A
