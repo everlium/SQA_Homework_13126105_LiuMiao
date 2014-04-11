@@ -1,4 +1,4 @@
-How to use DFT in synchronization testing
+#How to use DFT in synchronization testing
 
 There are some defects in the CFT testing and in order to get much more correct decisions, we need to use data dependency analysis (DDA) and DFT which stands for data flow testing. The subject of DFT is the verification of correct handing of data relations which are used in DDA during program execution. In other words, DFT is the result-oriented.
 
