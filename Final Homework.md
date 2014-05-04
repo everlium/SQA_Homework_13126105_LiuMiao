@@ -6,9 +6,11 @@ Before we began the course, I thought there was no difference between software q
 Quality assurance must be a part of the entire software development life cycle (SDLC) from inception through implementation. I once read a report and it mentioned seven steps to design the quality assurance.
 
 1. Define Quality to Match the Needs
+
 We should meet business requirements and achieve a satisfying user experience. It is known to us all that the application development team is not charged with unrealistically perfect expectations.
 
 2. Broadcast Simple Quality Metrics
+
 Highly visible metrics will keep quality top of mind for the entire team and expose when efforts fall short.
 
 3. Fine-Tune Team/Individual Goals to Include Quality 
